@@ -1,0 +1,166 @@
+commit 529ef4cf6719e97f0eaad2cd3b67c11b7ae77d27
+Author: gmanipon <gmanipon@jpl.nasa.gov>
+Date:   Fri Sep 22 22:38:18 2017 +0000
+
+    remove IPs
+
+commit 6196195d71ba174d7657f0ba4cf16b87e7d1b95f
+Author: Mike Cayanan <michael.cayanan@jpl.nasa.gov>
+Date:   Mon Apr 18 10:11:04 2016 -0700
+
+    Correctly resolve href links to directory listings if specified URL does
+    not end with a trailing slash.
+
+commit 69694bdf4aeed4bff2c706f00cd4f5d95f45d432
+Author: Mike Cayanan <michael.cayanan@jpl.nasa.gov>
+Date:   Mon Apr 18 08:44:49 2016 -0700
+
+    Resolved hysds-org 129: Enable column sorting aws s3 bucket index-style.
+
+commit b0aff6529c400f6b3ceb0a631cb8c61756225669
+Author: Mike Cayanan <michael.cayanan@jpl.nasa.gov>
+Date:   Wed Apr 6 13:31:46 2016 -0700
+
+    Fixed yet another typo.
+
+commit d6024de7646e2062a2f26068a6f2a855b62dbfc1
+Author: Mike Cayanan <michael.cayanan@jpl.nasa.gov>
+Date:   Wed Apr 6 13:31:06 2016 -0700
+
+    Fixed typo.
+
+commit 29b58a3bcc96d33ba731304bf2165ccc4cfc9711
+Author: Mike Cayanan <michael.cayanan@jpl.nasa.gov>
+Date:   Wed Apr 6 13:29:00 2016 -0700
+
+    Updated bucket policies in the README.md to not allow all actions as
+    previously defined.
+
+commit 1ee783ae4bc150600ab7242237de655b919299aa
+Author: Mike Cayanan <michael.cayanan@jpl.nasa.gov>
+Date:   Wed Apr 6 08:28:09 2016 -0700
+
+    Updated the README to mention that the index-style/ folder needs to be
+    uploaded to the target S3 bucket as well.
+
+commit 0df58247567a802d350012e795e83caa9e8efb54
+Author: Mike Cayanan <michael.cayanan@jpl.nasa.gov>
+Date:   Tue Apr 5 15:21:00 2016 -0700
+
+    Updated example to sync with the changes that were made to resolve issue
+    117.
+
+commit 5a4c909e2274eeaa5ce8221c63893179acfc9ec7
+Author: Mike Cayanan <michael.cayanan@jpl.nasa.gov>
+Date:   Tue Apr 5 15:16:06 2016 -0700
+
+    Resolved hysds-org issue 117: Modified javascript to add Index Style to
+    S3 buckets.
+
+commit 95d3f9ae292959f37b046140f017f97c4207bdd8
+Author: gmanipon <gmanipon@jpl.nasa.gov>
+Date:   Fri Mar 18 00:30:21 2016 +0000
+
+    update instructions
+
+commit 52d300a4be302b30cd608ca100b58c7283181b0a
+Author: gmanipon <gmanipon@jpl.nasa.gov>
+Date:   Tue Mar 15 19:27:56 2016 +0000
+
+    update README.md
+
+commit 98de2bffa04e2a3058d66baf597a591ac5c1bbdb
+Author: Gerald Manipon <gmanipon@jpl.nasa.gov>
+Date:   Wed Mar 2 12:39:22 2016 -0800
+
+    Update README.md
+
+commit 11ff6ee9d5f8ebe3a1a94ed02484d3cfffa2162a
+Author: Gerald Manipon <gmanipon@jpl.nasa.gov>
+Date:   Wed Mar 2 12:39:00 2016 -0800
+
+    Update README.md
+
+commit 06c2b28911ef5d19fa32ac9daa2cff9051a13588
+Author: Gerald Manipon <gmanipon@jpl.nasa.gov>
+Date:   Wed Mar 2 12:37:39 2016 -0800
+
+    Update README.md
+
+commit d9c69a1f388759aaca17501261bc19f077d5f1b8
+Author: Gerald Manipon <gmanipon@jpl.nasa.gov>
+Date:   Wed Mar 2 12:37:10 2016 -0800
+
+    Update README.md
+
+commit 2a22310099d5ede243fe34bf0d1e25f4733d9014
+Author: Gerald Manipon <gmanipon@jpl.nasa.gov>
+Date:   Wed Mar 2 12:36:51 2016 -0800
+
+    Update README.md
+
+commit 5663c91629ba62ef48098adfb047cd71f4992730
+Author: Gerald Manipon <gmanipon@jpl.nasa.gov>
+Date:   Wed Mar 2 12:36:34 2016 -0800
+
+    Update README.md
+
+commit 2c2375075bcdae1b97a00c968689801b514f0ef7
+Author: Gerald Manipon <gmanipon@jpl.nasa.gov>
+Date:   Wed Mar 2 12:36:14 2016 -0800
+
+    Update README.md
+
+commit cecfc76eac444b29fc9792783711b6a5277e6f21
+Author: Gerald Manipon <gmanipon@jpl.nasa.gov>
+Date:   Wed Mar 2 12:35:19 2016 -0800
+
+    Update README.md
+
+commit ae2b7ee550ce6c505ff004b9251aece891f9e361
+Author: Gerald Manipon <gmanipon@jpl.nasa.gov>
+Date:   Wed Mar 2 12:34:42 2016 -0800
+
+    Update README.md
+
+commit 2c5931c055c8f482fca82058ee506f59a539065b
+Author: Gerald Manipon <gmanipon@jpl.nasa.gov>
+Date:   Wed Mar 2 12:33:12 2016 -0800
+
+    Update README.md
+
+commit 5330da4d8046b87eab5af3382bf3b5f549950a44
+Author: Gerald Manipon <gmanipon@jpl.nasa.gov>
+Date:   Wed Mar 2 12:32:32 2016 -0800
+
+    Update README.md
+
+commit f444d79c58f745d7ebe36315dc17fb2f0fb84856
+Author: Gerald Manipon <gmanipon@jpl.nasa.gov>
+Date:   Wed Mar 2 12:31:52 2016 -0800
+
+    Update README.md
+
+commit e857f5e59096ed34062a6e9f26714c47ae856548
+Author: Gerald Manipon <gmanipon@jpl.nasa.gov>
+Date:   Wed Mar 2 12:31:20 2016 -0800
+
+    Update README.md
+
+commit 454ea9ffd0ccc7dd4c658c0949c1395a4e358ea9
+Author: gmanipon <gmanipon@jpl.nasa.gov>
+Date:   Wed Mar 2 20:27:32 2016 +0000
+
+    update with simpler instructions
+
+commit b467154292f452dd636807e42d99d2ff171c5d1d
+Author: Gerald Manipon <geraldjohn.m.manipon@jpl.nasa.gov>
+Date:   Wed Mar 2 10:51:42 2016 -0800
+
+    create generic
+
+commit 80f669115a7a4ea65f76b1fd74ce483aa7ce388a
+Author: Gerald Manipon <geraldjohn.m.manipon@jpl.nasa.gov>
+Date:   Tue Oct 27 11:12:07 2015 -0700
+
+    initial import
